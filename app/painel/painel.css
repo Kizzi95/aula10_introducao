@@ -1,0 +1,12 @@
+.erro{
+    color: rgb(19, 15, 15) ; 
+    background-color: rgb(226, 166, 166) ; 
+    padding: 10px;
+
+}
+
+.correto{
+    color: #f5faf5;
+    background-color :#008000 ; 
+    padding : 10px;
+}
